@@ -1,0 +1,6 @@
+<!--pages/animation/animation.wxml-->
+<view class="animation-box">
+
+    <view class="box" animation="{{animationData}}" bindtap="go"></view>
+
+</view>
