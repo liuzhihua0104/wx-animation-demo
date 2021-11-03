@@ -1,0 +1,5 @@
+<!--pages/popup/popup.wxml-->
+<view class="wrap">
+    <button bindtap="showPop">toggle按钮</button>
+    <view class="popup" animation="{{animationData}}"></view>
+</view>
